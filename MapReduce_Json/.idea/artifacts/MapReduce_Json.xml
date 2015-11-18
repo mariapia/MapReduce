@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="MapReduce_Json">
+    <output-path>$PROJECT_DIR$/out/artifacts/MapReduce_Json</output-path>
+    <root id="root">
+      <element id="module-output" name="MapReduce_Json" />
+    </root>
+  </artifact>
+</component>

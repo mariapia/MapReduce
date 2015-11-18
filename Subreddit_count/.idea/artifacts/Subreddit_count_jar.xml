@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Subreddit_count:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Subreddit_count_jar</output-path>
+    <root id="archive" name="Subreddit_count.jar">
+      <element id="module-output" name="Subreddit_count" />
+      <element id="extracted-dir" path="$USER_HOME$/Scaricati/org.json-20120521.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Scaricati/hadoop-core-0.20.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
