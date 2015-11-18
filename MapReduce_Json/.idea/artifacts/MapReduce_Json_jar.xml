@@ -3,11 +3,11 @@
     <output-path>$PROJECT_DIR$/out/artifacts/MapReduce_Json_jar</output-path>
     <root id="archive" name="MapReduce_Json.jar">
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/META-INF/MANIFEST.MF" />
       </element>
-      <element id="extracted-dir" path="$USER_HOME$/Scaricati/org.json-20120521.jar" path-in-jar="/" />
+      <element id="module-output" name="MapReduce_Json" />
       <element id="extracted-dir" path="$USER_HOME$/Scaricati/hadoop-core-0.20.2.jar" path-in-jar="/" />
-      <element id="artifact" artifact-name="MapReduce_Json" />
+      <element id="extracted-dir" path="$USER_HOME$/Scaricati/org.json-20120521.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
